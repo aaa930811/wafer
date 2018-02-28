@@ -1,0 +1,8 @@
+.suo
+packages
+obj
+bin
+*.csproj.user
+*.pubxml.user
+TestResults
+/.vs
